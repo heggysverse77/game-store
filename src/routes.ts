@@ -4,13 +4,6 @@ import Header from "./header"
 
 
 export const router = createBrowserRouter([
-    {
-        path: "/",
-        element: <Home />
-    },
-    {
-        path: "/header",
-        element: <Header />
-    },
+    
 
 ])
